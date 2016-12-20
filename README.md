@@ -1,5 +1,5 @@
 # testProject
 Renjith R Welcome
 Changes usng visual studio code
-new changes from vsc
+new changes from vs
 
